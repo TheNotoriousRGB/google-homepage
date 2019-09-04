@@ -35,7 +35,7 @@
 
 body {
     font-size: 15px;
-    font-family: serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 li {
@@ -75,7 +75,6 @@ img {
     margin: 0 auto;
     color: rgba(48, 48, 48, 0.836);
     border-radius: 3px;
-    
     
 }
 
