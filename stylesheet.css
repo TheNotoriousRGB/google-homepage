@@ -1,6 +1,5 @@
 .container {
     display: grid;
-    max-height: 900px;
     
 }
 
@@ -75,6 +74,8 @@ img {
     height: 40px;
     margin: 0 auto;
     color: rgba(48, 48, 48, 0.836);
+    border-radius: 3px;
+    
     
 }
 
